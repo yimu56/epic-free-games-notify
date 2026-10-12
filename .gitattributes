@@ -1,0 +1,9 @@
+* text=auto eol=lf
+*.bat text eol=crlf
+*.sh  text eol=lf
+*.js  text eol=lf
+
+*.png binary
+*.jpg binary
+*.exe binary
+*.zip binary
